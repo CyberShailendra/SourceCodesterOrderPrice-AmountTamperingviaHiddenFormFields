@@ -128,9 +128,3 @@ This vulnerability allows any user to manipulate the amount charged for a food i
 
 ---
 
-## Evidence Screenshots
-
-
-![Screenshot 1: Original product price in the order form](evidence/VDB-NC-004-screenshot-1.png)
-
-![Screenshot 2: Order submitted with a tampered amount](evidence/VDB-NC-004-screenshot-2.png)
