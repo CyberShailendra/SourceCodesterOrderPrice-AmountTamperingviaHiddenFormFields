@@ -22,6 +22,11 @@ The order handler trusts the submitted product price instead of calculating it f
 
 ## Finding Details
 
+**Entry:** VDB-426511
+
+**CVE ID:** CVE-2026-116605
+
+
 | Field | Value |
 |---|---|
 | **Title** | Online Food Ordering System `order.php` Client-Side Price Trust / Business Logic Tampering |
